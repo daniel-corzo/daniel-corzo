@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 What I actually do day-to-day
-- **Building rock-solid architectures:** I design scalable, cloud-native systems (using .NET, AWS, Python, and Kubernetes) that can take a punch and scale gracefully.
+- **Building rock-solid architectures:** I design scalable, cloud-native systems (using .NET, AWS, Python and Kubernetes) that can take a punch and scale gracefully.
 - **Leading without micromanaging:** I mentor engineers, unblock teams, and help build asynchronous, high-trust cultures across LATAM and the US. 
 - **Making AI useful, not just a buzzword:** I integrate LLMs, RAG, and smart workflows to actually speed up development and solve real business problems.
 - **Connecting the dots:** I sit right between the C-level vision and the engineering execution, making sure we are building the right thing, the right way.
@@ -13,7 +13,7 @@
 ---
 
 ### ⚙️ My Toolbelt
-*I believe in using the right tool for the job, but here is where I feel most at home:*
+I believe in using the right tool for the job, but here is where I feel most at home
 
 **Architecture & Cloud:** AWS, Azure Devops, Docker, Kubernetes, Event-Driven Design (Kafka)  
 **Code:** .NET, C#, Python, TypeScript, Angular  
@@ -26,9 +26,9 @@
 ### 🧠 The human behind the code
 I’ve been in the tech industry for over 20 years. I started as a curious, self-taught teenager figuring out code on a borrowed computer, and today I design complex, global architectures while finishing my Master's in Software Engineering at Universidad de los Andes.
 
-I consider myself a **sociotechnical leader**. I love diving deep into technical debt, modernizing legacy systems, and setting up the foundations for products to succeed. But more importantly, I care about the people building them. I build high-performing teams based on trust, autonomy, and clear goals—not on counting hours or unnecessary meetings.
+I consider myself a **sociotechnical leader**. I love diving deep into technical debt, modernizing legacy systems, and setting up the foundations for products to succeed. But more importantly, I care about the people building them. I build high performing teams based on trust, autonomy and clear goals, not on counting hours or unnecessary meetings.
 
-When I'm not untangling architectures or mentoring developers, you’ll probably find me traveling the world or playing my guitar.
+When I'm not untangling code or mentoring developers, you’ll probably find me traveling the world or playing my guitar.
 
 ---
 
