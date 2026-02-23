@@ -24,7 +24,7 @@ I believe in using the right tool for the job, but here is where I feel most at 
 ---
 
 ### 🧠 The human behind the code
-I’ve been in the tech industry for over 20 years. I started as a curious, self-taught teenager figuring out code on a borrowed computer, and today I design complex, global architectures while finishing my Master's in Software Engineering at Universidad de los Andes.
+I’ve been in the tech industry for over 20 years. I started as a curious, self-taught teenager figuring out code on a borrowed computer, and today I design software while finishing my Master's in Software Engineering at Universidad de los Andes.
 
 I consider myself a **sociotechnical leader**. I love diving deep into technical debt, modernizing legacy systems, and setting up the foundations for products to succeed. But more importantly, I care about the people building them. I build high performing teams based on trust, autonomy and clear goals, not on counting hours or unnecessary meetings.
 
