@@ -1,49 +1,73 @@
-# 👋 Hi, I'm Daniel Corzo
+# Daniel Corzo
 
-**Software Architect & Tech Leader | MSc in Software Engineering (Uniandes)**
-
----
-
-### 🚀 What I actually do day-to-day
-- **Building rock-solid architectures:** I design scalable, cloud-native systems (using .NET, AWS, Python and Kubernetes) that can take a punch and scale gracefully.
-- **Leading without micromanaging:** I mentor engineers, unblock teams, and help build asynchronous, high-trust cultures across LATAM and the US. 
-- **Making AI useful, not just a buzzword:** I integrate LLMs, RAG, and smart workflows to actually speed up development and solve real business problems.
-- **Connecting the dots:** I sit right between the C-level vision and the engineering execution, making sure we are building the right thing, the right way.
+**Software Architect · Tech Lead · Perpetual Learner**  
+*Bogotá, Colombia — building things that scale, mentoring people that grow*
 
 ---
 
-### ⚙️ My Toolbelt
-I believe in using the right tool for the job, but here is where I feel most at home
+I've been obsessed with code since I was 12. A borrowed computer, no internet, and pure curiosity — that's where it started.
 
-**Architecture & Cloud:** AWS, Azure Devops, Docker, Kubernetes, Event-Driven Design (Kafka)  
-**Code:** .NET, C#, Python, TypeScript, Angular  
-**AI & Automations:** OpenAI, n8n, GitHub Copilot, Rovo AI  
-**Data:** SQL Server, PostgreSQL, MongoDB  
-**DevOps & Quality:** GitHub Actions, Azure DevOps, SonarQube, Cypress  
+I'm a **Computer Systems Engineer** from Universidad Católica de Colombia, self-taught long before I ever set foot in a classroom. Today I design cloud-native architectures, lead engineering teams, and finish my **MSc in Software Engineering at Universidad de los Andes** while doing it all.
 
 ---
 
-### 🧠 The human behind the code
-I’ve been in the tech industry for over 20 years. I started as a curious, self-taught teenager figuring out code on a borrowed computer, and today I design software while finishing my Master's in Software Engineering at Universidad de los Andes.
+## What I actually bring to the table
 
-I consider myself a **sociotechnical leader**. I love diving deep into technical debt, modernizing legacy systems, and setting up the foundations for products to succeed. But more importantly, I care about the people building them. I build high performing teams based on trust, autonomy and clear goals, not on counting hours or unnecessary meetings.
+I'm not a specialist. I'm something harder to find.
 
-When I'm not untangling code or mentoring developers, you’ll probably find me traveling the world or playing my guitar.
+Looking back, I have a pattern: I tend to show up before things become obvious.
+
+I was building chatbot integrations when the concept was still being defined. I was designing CLI-based project generators to enforce architecture standards before AI coding assistants made that idea mainstream. I was making decisions about monolith-to-microservices migrations, service boundaries, and event-driven communication when most teams were still figuring out Docker.
+
+I've taken platforms from zero to production: frontend, backend, infrastructure, pipelines, monitoring, deployments. The full thing.
+
+And now I'm working seriously with LLMs and AI workflows, not as a trend, but as a natural next step in a long line of "this is where things are going."
+
+I know what each role on an engineering team does, because at some point, I've done it.  
+That's not a weakness. That's what lets me make decisions at system scale.
 
 ---
 
-### 📫 Let's talk tech
-[LinkedIn](https://www.linkedin.com/in/daniel-corzo/) • [GitHub](https://github.com/daniel-corzo)
+## How I work
+
+- I mentor, I don't micromanage
+- I write architecture docs that people actually read
+- I do code reviews that teach, not just flag
+- I build async, high-trust cultures, no unnecessary meetings, no hour-counting
+- I ask "why are we building this?" before "how do we build this?"
 
 ---
 
-### 🧩 Tech Badges
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+## The human side
+
+- 🎸 Guitar player since age 10, lately going deeper into music theory and understanding how it all connects
+- 🏀 Weekend basketball
+- 🐕 Dog dad
+- 📷 Amateur photographer
+- ☕ Coffee lover
+- 📚 Currently: wrapping up a Master's project while working full time
+
+---
+
+## Stack I reach for first
+
+```
+Backend     → .NET / C# / Python
+Frontend    → TypeScript / Angular
+Cloud       → AWS
+Data        → SQL Server / PostgreSQL / MongoDB
+AI          → OpenAI / LangChain / n8n / RAG / GenAI
+DevOps      → Azure DevOps / GitHub Actions / Docker / Kubernetes / Jenkins
+```
+
+---
+
+## Let's connect
+
+If you're building something interesting and need someone who can zoom out to the architecture and zoom in to the code, let's talk.
+
+[LinkedIn](https://www.linkedin.com/in/daniel-corzo/) · [GitHub](https://github.com/daniel-corzo)
+
+---
+
+*"I know a little about everything" actually means "I can make informed decisions about anything."*
