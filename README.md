@@ -24,6 +24,7 @@ I've taken platforms from zero to production: frontend, backend, infrastructure,
 And now I'm working seriously with LLMs and AI workflows, not as a trend, but as a natural next step in a long line of "this is where things are going."
 
 I know what each role on an engineering team does, because at some point, I've done it.  
+
 That's not a weakness. That's what lets me make decisions at system scale.
 
 ---
@@ -35,6 +36,7 @@ That's not a weakness. That's what lets me make decisions at system scale.
 - I do code reviews that teach, not just flag
 - I build async, high-trust cultures, no unnecessary meetings, no hour-counting
 - I ask "why are we building this?" before "how do we build this?"
+- I use AI as a genuine force multiplier, for research, for writing, for code, for thinking. Not as a shortcut, but as a way to operate at a higher level
 
 ---
 
