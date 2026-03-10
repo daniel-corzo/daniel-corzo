@@ -1,6 +1,6 @@
 # Daniel Corzo
 
-**Software Architect · Tech Lead · Perpetual Learner**  
+**Staff Engineer / Software Architect / Tech Lead / Perpetual Learner**  
 *Bogotá, Colombia — building things that scale, mentoring people that grow*
 
 ---
