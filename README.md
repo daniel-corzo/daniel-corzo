@@ -37,6 +37,7 @@ That's not a weakness. That's what lets me make decisions at system scale.
 - I build async, high-trust cultures, no unnecessary meetings, no hour-counting
 - I ask "why are we building this?" before "how do we build this?"
 - I use AI as a genuine force multiplier, for research, for writing, for code, for thinking. Not as a shortcut, but as a way to operate at a higher level
+- I've operated at a managerial level too: budgets, hiring, performance cycles, which means I understand the business context behind every technical decision. But my home is in the engineering.
 
 ---
 
