@@ -19,7 +19,7 @@ Looking back, I have a pattern: I tend to show up before things become obvious.
 
 I was building chatbot integrations when the concept was still being defined. I was designing CLI-based project generators to enforce architecture standards before AI coding assistants made that idea mainstream. I was making decisions about monolith-to-microservices migrations, service boundaries, and event-driven communication when most teams were still figuring out Docker.
 
-I've taken platforms from zero to production: frontend, backend, infrastructure, pipelines, monitoring, deployments. The full thing.
+I've taken platforms from zero to production: frontend, backend, infrastructure, pipelines, monitoring, testing, deployments. The full thing.
 
 And now I'm working seriously with LLMs and AI workflows, not as a trend, but as a natural next step in a long line of "this is where things are going."
 
@@ -30,7 +30,7 @@ I know what each role on an engineering team does, because at some point, I've d
 ## How I work
 
 - I set technical direction: architecture patterns, codebases, standards, automation guidelines. And I document it so teams don't have to guess
-- I mentor and unblock, not micromanage. I've been a reference point for architects and leads across teams, not because of my title, but because of the quality of the conversation
+- I mentor and unblock, not micromanage. I've been a reference point for managers, architects and leads across teams, not because of my title, but because of the quality of the conversation
 - I ask "_why are we building this?_" before "_how do we build this?_" and I understand the business context well enough to answer both
 - I turn production incidents into institutional knowledge through structured postmortems
 - I've also operated at a managerial level: _budgets_, _hiring_, _performance cycles_, _forecasting_, _risks_. I understand the business context behind every technical decision. But my home is in the engineering
@@ -53,11 +53,11 @@ I know what each role on an engineering team does, because at some point, I've d
 ## Stack I reach for first
 
 ```
-Backend     → .NET / C# / Python
+Backend     → C# / Python
 Frontend    → TypeScript / Angular
 Cloud       → AWS
-Data        → SQL Server / PostgreSQL / MongoDB
-AI          → OpenAI / LangChain / n8n / RAG / GenAI
+Data        → SQL Server / PostgreSQL / MongoDB / Redis
+AI          → Claude / LangChain / RAG / GenAI
 DevOps      → Azure DevOps / GitHub Actions / Docker / Kubernetes / Jenkins
 ```
 
