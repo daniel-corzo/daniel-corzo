@@ -7,7 +7,7 @@
 
 I've been obsessed with code since I was 12. A borrowed computer, no internet, and pure curiosity, that's where it started.
 
-I'm a **Computer Systems Engineer** from Universidad Católica de Colombia, self-taught long before I ever set foot in a classroom. Today I design cloud-native architectures, lead engineering teams, and finish my **MSc in Software Engineering at Universidad de los Andes** while doing it all.
+I'm a **Computer Systems Engineer** from Universidad Católica de Colombia, self-taught long before I ever set foot in a classroom. Today I design cloud-native architectures, lead engineering teams, and finish my **MSc in Software Engineering at Universidad de los Andes** :goat: while doing it all.
 
 ---
 
